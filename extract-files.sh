@@ -127,6 +127,7 @@ adb pull /system/lib/libSwypeCore.so ../../../vendor/motorola/$DEVICE/proprietar
 adb pull /system/lib/libWifiAPHardware.so ../../../vendor/motorola/$DEVICE/proprietary
 adb pull /system/lib/libWifiAPNativeJni.so ../../../vendor/motorola/$DEVICE/proprietary
 adb pull /system/lib/libarcsoftpe.so ../../../vendor/motorola/$DEVICE/proprietary
+adb pull /system/lib/libarcsoft.so ../../../vendor/motorola/$DEVICE/proprietary
 adb pull /system/lib/libbattd.so ../../../vendor/motorola/$DEVICE/proprietary
 adb pull /system/lib/libcaps.so ../../../vendor/motorola/$DEVICE/proprietary
 adb pull /system/lib/libcryptoki.so ../../../vendor/motorola/$DEVICE/proprietary
@@ -361,6 +362,7 @@ PRODUCT_COPY_FILES += \\
     vendor/motorola/__DEVICE__/proprietary/libWifiAPHardware.so:/system/lib/libWifiAPHardware.so \\
     vendor/motorola/__DEVICE__/proprietary/libWifiAPNativeJni.so:/system/lib/libWifiAPNativeJni.so \\
     vendor/motorola/__DEVICE__/proprietary/libarcsoftpe.so:/system/lib/libarcsoftpe.so \\
+    vendor/motorola/__DEVICE__/proprietary/libarcsoft.so:/system/lib/libarcsoft.so \\
     vendor/motorola/__DEVICE__/proprietary/libbattd.so:/system/lib/libbattd.so \\
     vendor/motorola/__DEVICE__/proprietary/libcaps.so:/system/lib/libcaps.so \\
     vendor/motorola/__DEVICE__/proprietary/libcryptoki.so:/system/lib/libcryptoki.so \\
