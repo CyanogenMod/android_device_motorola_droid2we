@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="usb_cancel">Cancelar</string>
+  <string name="usb_toast_connecting_to">Conectando USB para</string>
+  <string name="usb_toast_phone_data_disabled">Dados do telefone será desativado.</string>
+  <string name="usb_no_memory_card_notification_title">Nenhum cartão de memória inserido</string>
+  <string name="usb_no_memory_card_notification_message_title">Cartão de memória está faltando</string>
+  <string name="usb_no_memory_card_notification_message">Favor inserir cartão de memória</string>
+  <string name="usb_selection_notification_title">Conexão USB</string>
+  <string name="usb_selection_notification_message">Selecione para gerenciar sua conexão USB</string>
+  <string name="usb_selection_notification_message_for_modem">Toque para disconectar e reativar dados do telefone interno</string>
+  <string name="usb_connection">Conexão USB</string>
+  <string name="usb_mode_ngp">Portal &amp; Ferramentas</string>
+  <string name="usb_mode_msc">Acesso Cartão de Memória</string>
+  <string name="usb_mode_mtp">Sincronização Windows Media</string>
+  <string name="usb_mode_modem">Celular como Modem</string>
+  <string name="usb_mode_none">Apenas Carregar</string>
+  <string name="usb_toast_insert_card">Favor inserir um cartão de memória para sua mídia.</string>
+  <string name="usb_progress_message">Alternando para</string>
+  <string name="usb_error_message">A conexão USB não pode mudar para</string>
+</resources>
