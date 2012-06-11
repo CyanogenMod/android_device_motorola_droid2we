@@ -192,6 +192,7 @@ adb pull /system/lib/libtpa_core.so ../../../vendor/motorola/$DEVICE/proprietary
 adb pull /system/lib/libui3d.so ../../../vendor/motorola/$DEVICE/proprietary
 adb pull /system/lib/libvideoeditorlite.so ../../../vendor/motorola/$DEVICE/proprietary
 adb pull /system/lib/libvisualization_jni.so ../../../vendor/motorola/$DEVICE/proprietary
+adb pull /system/lib/libvsuite_sharedlib.so ../../../vendor/motorola/$DEVICE/proprietary
 adb pull /system/lib/libwbxmlparser.so ../../../vendor/motorola/$DEVICE/proprietary
 adb pull /system/lib/ulogd_BASE.so ../../../vendor/motorola/$DEVICE/proprietary
 adb pull /system/lib/ulogd_SQLITE3.so ../../../vendor/motorola/$DEVICE/proprietary
